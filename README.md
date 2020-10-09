@@ -1,11 +1,12 @@
 # THANK YOU FOR PURCHASING!
 
+
 Installation Instrcutions are below.
 
 
 Copyright: FUT Reload 2020
 
-You may not share, resell or distribute this autobuyer to anyone else. Legal action may be taken if you do.
+You may not share, resell or distribute this autobuyer to anyone else. Legal action may be taken if you caught doing do.
 
 
 
