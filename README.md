@@ -48,3 +48,8 @@ https://www.easports.com/uk/fifa/ultimate-team/web-app/
 
 
 ~ IF YOU HAVE ANY QUESTIONS PLEASE DM @futreload ON INSTAGRAM! ~
+
+
+# TROUBLESHOOTING INFORMATION
+
+coming soon, dm us on instagram if you have any problems!
