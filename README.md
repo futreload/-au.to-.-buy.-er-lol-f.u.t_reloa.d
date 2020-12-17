@@ -27,7 +27,7 @@ Step 1:
 
 Step 2:
 
-• Once the extention is installed, go to this page on a new tab: https://github.com/futreload/futreload-autobuyer/blob/main/@futreload%20FUT%2021%20Autobuyer.user.js
+• Once the extention is installed, go to this page on a new tab: https://github.com/futreload/-au.to-.-buy.-er-lol-f.u.t_reloa.d/blob/main/file01
 • Click the button which says "Raw" in the top right of the box with the code in it.
 
 
@@ -43,7 +43,7 @@ Step 3:
 Step 4:
 
 • Now the autobuyer should be ready! Click the link below to go to the FUT 21 web app and you should have a tab on the left called "Autobuyer"!
-https://www.easports.com/uk/fifa/ultimate-team/web-app/
+https://www.easports.com/en-gb/fifa/ultimate-team/web-app/
 
 
 
