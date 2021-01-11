@@ -34,10 +34,15 @@ Step 2:
 
 Step 3:
 
-• Once you have clicked "Raw", you should come to a Tampermonkey page. 
+• Once you have clicked "Raw", you should see a page full of code.
+• You must now clcik the tampermonkey icon in the top right of the chrome windown, then click Dashboard.
 
-• You must now hit the "Install" button which has an orange border. It should automatically close this tab.
 
+Step 5:
+
+• You should now see a tampermonkey page. Click the + button near the top right. It should take you to a tampermonkey pager with a space for code.
+• Now, delete the code which is in that box, and paste the code you got when you clicked 'Raw' before.
+• Click File at the top of the code box, then click Save.
 
 
 Step 4:
@@ -52,4 +57,4 @@ https://www.easports.com/en-gb/fifa/ultimate-team/web-app/
 
 # TROUBLESHOOTING INFORMATION
 
-coming soon, dm us on instagram if you have any problems!
+coming soon - DM us on instagram if you have any problems!
